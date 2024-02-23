@@ -6,7 +6,7 @@ This notebook aims to classify echoes from sea ice and leads from Sentinel-3 alt
 
 We find that the sea ice and lead echoes from the altimetry data can be effectively classified using this model, achieving an accuracy of 99% when compared with the official ESA classifications. A sample of the echo waveforms assigned to each classification is shown below. We also align the waveforms to achieve a more meaningful analysis.
 
-![classifications](./figs/classifications.jpg)
+![classifications](./figs/classifications.png)
 
 ### Getting started
 
